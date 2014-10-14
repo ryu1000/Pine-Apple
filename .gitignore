@@ -1,0 +1,3 @@
+#Ignoring all simulation files
+*.out
+*.vcd
